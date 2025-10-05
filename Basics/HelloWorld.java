@@ -9,6 +9,7 @@ public class HelloWorld {
     }
 }
 
-Output:
+/*Output:
 🚀 Welcome to Java Programming!
 This is your first Java program.
+*/
