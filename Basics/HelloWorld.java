@@ -1,6 +1,11 @@
 // Basics/HelloWorld.java
 // Author: Aayush Raj
 // Description: Simple program to print a message — the first step in Java programming.
+/*📘 Concepts used:
+    -> Basic syntax
+    -> main() method-
+    -> System.out.println()
+    -> Program entry point*/
 
 public class HelloWorld {
     public static void main(String[] args) {
