@@ -1,6 +1,9 @@
 # ☕ Object-Oriented Programming in Java  
 
-> 🚀 A complete introduction to **Object-Oriented Programming (OOP)** concepts using **Java**, organized neatly by topic with clean, commented code examples.  
+> Welcome to the Java Object-Oriented Programming (OOP) Series — a structured collection of Java programs that explain every OOP concept from scratch with real-world examples.
+
+> It is organized neatly by topic with clean, commented code examples.
+  
 > Ideal for **students**, **beginners**, and anyone revising **Java OOP fundamentals**.
 
 ---
