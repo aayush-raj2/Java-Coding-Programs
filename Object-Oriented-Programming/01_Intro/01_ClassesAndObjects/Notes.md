@@ -30,6 +30,19 @@ Understand how **classes** define structure and **objects** bring those structur
 | `ObjectBehaviorExample.java` | Shows independent object behavior |
 
 ---
+## 🧠 Takeaways
+
+> ✅ Class = Blueprint
+
+> ✅ Object = Real-world instance
+
+> ✅ Each object has its own data
+
+> ✅ Constructor initializes attributes
+
+> ✅ Actions on one object don’t affect another
+
+---
 
 ## 🏁 Run Instructions
 ```bash
