@@ -1,4 +1,4 @@
-// 11_Inheritance/AccessModifiersInheritance.java
+// 03_Inheritance/AccessModifiersInheritance.java
 // Author: Aayush Raj
 // Description: Demonstrates visibility of members across inherited classes.
 
