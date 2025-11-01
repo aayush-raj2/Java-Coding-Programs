@@ -48,3 +48,6 @@ java ObjectDiagramDemo
 
 javac SequenceDiagramDemo.java
 java SequenceDiagramDemo
+```
+---
+> ✨ “A good UML diagram lets you see your architecture before you even compile it.” ✨
