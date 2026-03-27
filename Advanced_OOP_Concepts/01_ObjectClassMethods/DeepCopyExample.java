@@ -5,7 +5,7 @@ class Address implements Cloneable {
 }
 
 class Person implements Cloneable {
-    String name; Address address;
+    String name; Address address; 
     Person(String name, Address address) { this.name = name; this.address = address; }
     @Override protected Object clone() throws CloneNotSupportedException {
         Person copy = (Person) super.clone();
